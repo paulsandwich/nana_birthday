@@ -12,7 +12,7 @@ window.addEventListener("load", function (params){
 submitBtn.addEventListener("click", function(e){
     if (FsubmitBtn() == "2件衣服和1件褲子"){
         alert("(●'◡'●)👍👍👍")
-        window.location.assign("./Q8.html")
+        window.location.assign("./before.html")
     }
     else {alert("🤦‍♂️🤷‍♂️🤔🤔🤔❌❌❌❌")}
 })

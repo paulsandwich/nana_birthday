@@ -12,7 +12,7 @@ window.addEventListener("load", function (params){
 submitBtn.addEventListener("click", function(e){
     if (FsubmitBtn() == "行天宮"){
         alert("(●'◡'●)👍👍👍")
-        window.location.assign("./Q3.html")
+        window.location.assign("./reputation.html")
     }
     else {alert("🤦‍♂️🤷‍♂️🤔🤔🤔❌❌❌❌")}
 })

@@ -35,7 +35,7 @@ submitBtn.addEventListener("click", function(e){
      || FsubmitBtn() == "皮膚色、紫色、藍色、白色"
      || FsubmitBtn() == "皮膚色、紫色、白色、藍色"){
         alert("(●'◡'●)👍👍👍")
-        window.location.assign("./Q7.html")
+        window.location.assign("./mould.html")
     }
     else {alert("🤦‍♂️🤷‍♂️🤔🤔🤔❌❌❌❌")}
 })

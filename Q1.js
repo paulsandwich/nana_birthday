@@ -15,7 +15,7 @@ window.addEventListener("load", function (params){
 submitBtn.addEventListener("click", function(e){
     if (FsubmitBtn() == "2019/09/19"){
         alert("(●'◡'●)  👍👍👍")
-        window.location.assign("./Q2.html")
+        window.location.assign("./legacy.html")
     }
     else {alert("🤦‍♂️🤷‍♂️🤔🤔🤔❌❌❌❌")}
 })

@@ -12,7 +12,7 @@ window.addEventListener("load", function (params){
 submitBtn.addEventListener("click", function(e){
     if (FsubmitBtn() == "淡水"){
         alert("(●'◡'●)👍👍👍")
-        window.location.assign("./Q9.html")
+        window.location.assign("./armrest.html")
     }
     else {alert("🤦‍♂️🤷‍♂️🤔🤔🤔❌❌❌❌")}
 })

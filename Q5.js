@@ -12,7 +12,7 @@ window.addEventListener("load", function (params){
 submitBtn.addEventListener("click", function(e){
     if (FsubmitBtn() == "5個月"){
         alert("(●'◡'●)👍👍👍")
-        window.location.assign("./Q6.html")
+        window.location.assign("./course.html")
     }
     else {alert("🤦‍♂️🤷‍♂️🤔🤔🤔❌❌❌❌")}
 })

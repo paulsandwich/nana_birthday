@@ -12,7 +12,7 @@ window.addEventListener("load", function (params){
 submitBtn.addEventListener("click", function(e){
     if (FsubmitBtn() == "潘彥霖"){
         alert("(●'◡'●)👍👍👍")
-        window.location.assign("./Q5.html")
+        window.location.assign("./unto.html")
     }
     else {alert("🤦‍♂️🤷‍♂️🤔🤔🤔❌❌❌❌")}
 })

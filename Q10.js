@@ -12,7 +12,7 @@ window.addEventListener("load", function (params){
 submitBtn.addEventListener("click", function(e){
     if (FsubmitBtn() == "0814"){
         alert("(●'◡'●)👍👍👍")
-        window.location.assign("./final.html")
+        window.location.assign("./confine.html")
     }
     else {alert("😡😡😡😡🤬🤬🤬🤬")}
 })

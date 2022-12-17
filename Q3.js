@@ -12,7 +12,7 @@ window.addEventListener("load", function (params){
 submitBtn.addEventListener("click", function(e){
     if (FsubmitBtn() == "野生樓"){
         alert("(●'◡'●)👍👍👍")
-        window.location.assign("./Q4.html")
+        window.location.assign("./along.html")
     }
     else {alert("🤦‍♂️🤷‍♂️🤔🤔🤔❌❌❌❌")}
 })

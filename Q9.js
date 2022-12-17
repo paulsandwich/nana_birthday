@@ -12,7 +12,7 @@ window.addEventListener("load", function (params){
 submitBtn.addEventListener("click", function(e){
     if (FsubmitBtn() == "高公局"){
         alert("(●'◡'●)👍👍👍")
-        window.location.assign("./Q10.html")
+        window.location.assign("./exfoliate.html")
     }
     else {alert("🤦‍♂️🤷‍♂️🤔🤔🤔❌❌❌❌")}
 })
