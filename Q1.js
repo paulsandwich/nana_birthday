@@ -1,4 +1,7 @@
+
+
 window.addEventListener("load", function (params){
+
     let answerInput = document.getElementById("answer");
     let submitBtn = document.getElementById("btn")
 
