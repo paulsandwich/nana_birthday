@@ -13,6 +13,7 @@ window.addEventListener("load", function(params){
         window.alert("😐😐😐😐")
     })
     boyfriend.addEventListener("click", function(e){
-        window.alert('https://www.youtube.com/watch?v=rUl9_-MpNvM')
+        window.alert("😐😐😐😐")
+        // window.alert('https://www.youtube.com/watch?v=rUl9_-MpNvM')
     })
 })
